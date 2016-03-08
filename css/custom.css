@@ -1,0 +1,114 @@
+.lgn-body {
+    background: #666666 !important;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.form-signin {
+    max-width: 850px;
+    margin: 100px auto;
+    background: #fff;
+    border-radius: 0px !important;
+   -webkit-border-radius: 0px !important;
+}
+.form-signin h2.form-signin-heading {
+    margin: 0;
+    padding: 35px 15px 0 20px;
+    text-align: left;
+    background: #fff !important;
+    /* border-radius: 5px 5px 0 0; */
+    /* -webkit-border-radius: 5px 5px 0 0; */
+    color: #636363;
+    font-size: 18px;
+    /* text-transform: uppercase; */
+    font-weight: 600;
+    font-family: 'Open Sans',sans-serif;
+    border-bottom: 10px solid #fff !important;
+}
+.btn-lgn{
+    background: #f49f1e !important;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600 !important;
+    font-family: 'Open Sans',sans-serif;
+    margin: 20px 0 5px;
+    width: 50%;
+    border-radius: 0px !important;
+}
+.user-login-info {
+    background: #FFFFFF;
+    margin: -20px -20px 20px -20px;
+    padding: 20px;
+}
+.form-signin p {
+    text-align: left;
+    color: #636363;
+    font-size: 11px;
+    font-weight: 600;
+     padding: 16px 0 0px 0;
+}
+.forgot {
+    padding: 0 20px 5px 0 !important;
+}
+.forgot1 {
+    padding: 0 0 5px 0 !important;
+
+}
+.registration {
+    position: absolute;
+    right: 0;
+    bottom: -33px !important;
+    color: #000;
+}
+
+.registration1 {
+    position: absolute;
+    /* right: 0; */
+    bottom: -33px !important;
+    color: #000;
+    margin-left: -435px;
+    left: 0;
+}
+.lgn-leftback {
+    background-color: #eeeeee;
+    padding-bottom: 236px;
+}
+.lgn-left {
+    padding: 20px 0 0 20px;
+    background-color: #eeeeee;
+}
+.lgn-left h4 {
+    font-size: 16px !important;
+    font-weight: 600;
+    padding-top: 62px;
+}
+.lgn-sub {
+    padding: 0px 0 0 20px;
+}
+.lgn-sub h6 {
+    font-size: 14px !important;
+    font-weight: 400;
+    
+}
+.lgn-para {
+	padding: 0px 0 0 20px;
+}
+.lgn-para p {
+	 font-size: 13px !important;
+   
+}
+.lgn-read {
+	padding: 0px 0 0 20px;
+}
+.lgn-read p {
+	 font-size: 13px !important;
+   
+}
+.lgn-read span {
+	 font-size: 13px !important;
+	 color:#f49f1e;
+   
+}
+.decoration {
+	text-decoration: none;
+}
